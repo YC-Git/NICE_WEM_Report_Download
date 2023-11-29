@@ -2,7 +2,7 @@
 **Note: This project was developed for a client during my tenure at GDIT. As the code is not shareable, its purpose is to explain the project and demonstrate the process behind my solution.**
 
 
-## Project Objectives
+## Project Summary
 The manual process of downloading scheduled reports from the NICE website is exceedingly labor-intensive on a daily basis, taking roughly two hours per day for a user to download the reports manually.
 
 This project aims to automate the download process of scheduled reports from the NICE website using APIs. It will save these reports to a user-specified location, mark the item checkbox on the website after each successful download, and generate an RPA processing log after each run.
